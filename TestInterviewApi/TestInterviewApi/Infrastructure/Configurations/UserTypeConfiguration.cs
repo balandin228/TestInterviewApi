@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using TestInterviewApi.Domain.User;
 
-namespace TestInterviewApi.Infrasctructure.Configurations
+namespace TestInterviewApi.Infrastructure.Configurations
 {
     public class UserTypeConfiguration : IEntityTypeConfiguration<User>
     {
