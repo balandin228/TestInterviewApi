@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TestInterviewApi.Domain.User
+﻿namespace TestInterviewApi.Domain.User
 {
     public interface IUser
     {

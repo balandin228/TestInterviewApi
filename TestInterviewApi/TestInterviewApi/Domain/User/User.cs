@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace TestInterviewApi.Domain.User
 {
@@ -13,7 +10,7 @@ namespace TestInterviewApi.Domain.User
         public string Login { get; }
         public string PhoneNumber { get; private set; }
 
-        public string PasswordHash { get;}
+        public string PasswordHash { get; }
         public string Salt { get; }
         public ICollection<PhoneNumber.PhoneNumber> Numbers { get; }
 

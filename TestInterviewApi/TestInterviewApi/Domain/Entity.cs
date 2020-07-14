@@ -1,11 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
-namespace TestInterviewApi.Domain
+﻿namespace TestInterviewApi.Domain
 {
-    public abstract class Entity<TKey> 
+    public abstract class Entity<TKey>
     {
         protected Entity(TKey key)
         {

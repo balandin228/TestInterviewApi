@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using TestInterviewApi.Domain.User;
+﻿using TestInterviewApi.Domain.User;
 
 namespace TestInterviewApi.Infrastructure.Repositories
 {
-    public class  UserRepository : Repository<User>
+    public class UserRepository : Repository<User>, IUserRepository
     {
         public UserRepository(TestDbContext context) : base(context)
         {
