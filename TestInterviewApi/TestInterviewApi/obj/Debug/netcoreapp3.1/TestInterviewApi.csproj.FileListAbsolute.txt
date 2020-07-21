@@ -69,3 +69,8 @@ F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin
 F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\obj\Debug\netcoreapp3.1\TestInterviewApi.csproj.CoreCompileInputs.cache
 F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\obj\Debug\netcoreapp3.1\TestInterviewApi.MvcApplicationPartsAssemblyInfo.cache
+F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Programming\Github\OOP\TestInterviewApi\TestInterviewApi\TestInterviewApi\obj\Debug\netcoreapp3.1\TestInterviewApi.MvcApplicationPartsAssemblyInfo.cs
